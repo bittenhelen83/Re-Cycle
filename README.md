@@ -7,7 +7,7 @@ My first year HTML & CSS project
 
 ## Description
 
-A site for the company Re-Cycle who offers guided tours by bice around some of the worlds largest cities. 
+A site for the company Re-Cycle who offers guided tours by bike around some of the worlds largest cities. 
 
 * Information about the cities we offer guided tours of
 * Maps that show the route of the tour
