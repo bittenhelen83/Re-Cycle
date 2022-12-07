@@ -39,3 +39,11 @@ npm install
 ```
 npm run start
 ```
+
+## Contributing
+
+Make sure to open a pull request so code can be reviewed and have fun!
+
+## Contact
+
+- [My LinkedIn](https://www.linkedin.com/in/bittenberntsen/)
