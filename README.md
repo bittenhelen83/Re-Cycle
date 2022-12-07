@@ -28,7 +28,7 @@ A site for the company Re-Cycle who offers guided tours by bike around some of t
 ```
 git clone git@github.com:bittenhelen83/Re-Cycle.git
 ```
-3. Install the dependencies
+2. Install the dependencies
 
 ```
 npm install
