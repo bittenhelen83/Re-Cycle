@@ -14,3 +14,28 @@ A site for the company Re-Cycle who offers guided tours by bice around some of t
 * About us, a little information about the company
 * Contact form
 
+## Built with
+
+* HTML
+* CSS
+
+## Getting started
+
+### Installing
+
+1. Clone the repo
+
+```
+git clone git@github.com:bittenhelen83/Re-Cycle.git
+```
+3. Install the dependencies
+
+```
+npm install
+```
+
+### Running
+
+```
+npm run start
+```
